@@ -1,2 +1,7 @@
 # dnd-gpt
-A GPT model built from the ground up
+A GPT model built from the ground up.
+
+## Goals
+
+
+## To Do
